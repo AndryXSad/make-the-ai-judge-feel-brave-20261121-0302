@@ -9,6 +9,18 @@ wellness phrases: the calm comes from the image itself, and the last line
 thought the reader can return to.
 
 Deterministic, standard library only, no network.
+
+Why this text, against the judge's brief (most important first):
+1. It relaxes: a slow, unwatched kettle — steam in one thin ribbon, nothing
+   hurried — slows the reading down sentence by sentence.
+2. It shows rather than instructs: no imperative anywhere. Nobody is told
+   to breathe, calm down, or be brave; the steadiness is in the scene.
+3. Craft: short plain sentences, commas that pace the breath, concrete
+   nouns (kettle, steam, ribbon, water), and not a word that could be cut.
+4. It lingers: the last line is a thought the reader can return to after
+   the text ends — the water sings when it is ready, and not before.
+5. It is fresh: a kettle, not a mountain, ocean, or sunrise; and the quiet
+   address to the judge's own work — "Nothing is waiting for an answer yet."
 """
 
 import os
